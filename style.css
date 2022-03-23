@@ -1,0 +1,20 @@
+h1,h2,h3,h4,#title,
+.navbar-brand{
+    font-family:'playfair display',serif ;
+    font-weight: 900;
+    font-size: 30px;
+    font:italic;
+}
+.blog-post{
+    margin-bottom: 30px;
+
+}
+.blog-post-title {
+    font-size: 26px;
+    font-family:'playfair display',serif ; 
+}
+footer {
+background:#f9f9f9;
+padding-top: 40px;
+padding-bottom: 60px;
+}
